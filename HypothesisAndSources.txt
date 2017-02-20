@@ -1,0 +1,34 @@
+Is there a correlation between union representation and manufacturing moving to a state?
+
+Why does S.C not want union representation?
+
+Does S.C. have relatively lower wages and cost of living?
+
+What states are ideal targets and non-ideal targets for manufacturing?
+
+What role have unions played historically in benefiting labor.
+
+What are the 25 states that have right to work laws prohibiting mandatory union memberships?
+
+Where are the manufacturing and machinist jobs nationwide?
+
+voting and elections.
+
+Trade Adjustment Assistance Data
+
+(Asking for permission on bulk data)
+Ideal data source:
+http://www.citizen.org/taadatabase
+
+(Only goes up to 2010)
+Fusion Table Data on TAA with geocodiing:
+https://fusiontables.google.com/DataSource?dsrcid=221728
+
+Ironically the goverment site offers the worst solution 
+with lack of number of employees but bulk download is more feasible
+
+
+Union Rep By State:
+https://www.bls.gov/news.release/union2.t05.htm
+
+
